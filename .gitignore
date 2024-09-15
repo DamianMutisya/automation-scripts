@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+*.log
+
+# CSV files
+tenders_log.csv
+new_tenders.csv
+
+# Environment variables
+.env
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore environment variables file
+.env
+
+
+# Ignore CSV files with sensitive data
+company_documents.csv
